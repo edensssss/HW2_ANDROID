@@ -65,9 +65,9 @@ public class AdapterScore extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
 
         scoreViewHolder.score_TXT_score.setText(score.getScore()+"");
         if(score.isSelected()){
-            scoreViewHolder.itemView.setBackgroundColor(Color.GREEN);
+            scoreViewHolder.score_IMG_mark.setImageResource(R.drawable.mark_fill);
         }else{
-            scoreViewHolder.itemView.setBackgroundColor(Color.WHITE);
+            scoreViewHolder.score_IMG_mark.setImageResource(R.drawable.mark_empty);
         }
 
     }
@@ -89,11 +89,13 @@ public class AdapterScore extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
 
         public AppCompatImageView score_IMG_order;
         public MaterialTextView score_TXT_score;
+        public AppCompatImageView score_IMG_mark;
 
         public ScoreViewHolder(final View itemView) {
             super(itemView);
             this.score_IMG_order = itemView.findViewById(R.id.score_IMG_order);
             this.score_TXT_score = itemView.findViewById(R.id.score_TXT_score);
+            this.score_IMG_mark = itemView.findViewById(R.id.score_IMG_mark);
 
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override

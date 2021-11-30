@@ -236,12 +236,8 @@ public class GameActivity extends AppCompatActivity {
 
     private void checkCrash() {
         //check if car crashed
-        for(int i = 4 ; i <= 5; i++) {
-            TableRow row = (TableRow) rocks.getChildAt(ROWS - i);
-            boolean isCrashed = checkCrashInRow(row);
-            if(isCrashed)
-                break;
-        }
+        TableRow row = (TableRow) rocks.getChildAt(ROWS - 5);
+        boolean isCrashed = checkCrashInRow(row);
     }
 
     private void updateRocks() {
