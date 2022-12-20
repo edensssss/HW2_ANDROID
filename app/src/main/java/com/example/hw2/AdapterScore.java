@@ -2,7 +2,6 @@ package com.example.hw2;
 
 
 import android.app.Activity;
-import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -35,9 +34,9 @@ public class AdapterScore extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
     private ArrayList<Score> scores = new ArrayList<>();
     private ScoreItemClickListener scoreItemClickListener;
 
-    public AdapterScore(Activity activity, ArrayList<Score> movies) {
+    public AdapterScore(Activity activity, ArrayList<Score> scores) {
         this.activity = activity;
-        this.scores = movies;
+        this.scores = scores;
     }
 
     public AdapterScore setScoreItemClickListener(ScoreItemClickListener scoreItemClickListener) {
@@ -48,7 +47,7 @@ public class AdapterScore extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
     @Override
     public RecyclerView.ViewHolder
     onCreateViewHolder(ViewGroup viewGroup, int viewType) {
-        View view = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.scroe_list, viewGroup, false);
+        View view = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.score_list, viewGroup, false);
         return new ScoreViewHolder(view);
     }
 
@@ -65,9 +64,9 @@ public class AdapterScore extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
 
         scoreViewHolder.score_TXT_score.setText(score.getScore()+"");
         if(score.isSelected()){
-            scoreViewHolder.score_IMG_mark.setImageResource(R.drawable.mark_fill);
+            scoreViewHolder.score_IMG_mark.setImageResource(R.drawable.ic_mark);
         }else{
-            scoreViewHolder.score_IMG_mark.setImageResource(R.drawable.mark_empty);
+            scoreViewHolder.score_IMG_mark.setImageResource(R.drawable.ic_unmark);
         }
 
     }

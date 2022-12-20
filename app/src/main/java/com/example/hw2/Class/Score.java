@@ -8,6 +8,7 @@ public class Score implements Comparable<Score>{
     private double longitude;
     private boolean selected;
     private Marker marker;
+
     public Score(){
         this.score = 0;
         this.latitude = 0.0;

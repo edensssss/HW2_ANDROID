@@ -48,7 +48,6 @@ public class Fragment_Map extends Fragment implements OnMapReadyCallback {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_map, container, false);        
         findViews(view);
-        initViews();
         initGoogleMap(savedInstanceState);
 
         return view;
@@ -125,9 +124,6 @@ public class Fragment_Map extends Fragment implements OnMapReadyCallback {
         }
 
 
-    }
-
-    private void initViews() {
     }
 
     private void findViews(View view) {

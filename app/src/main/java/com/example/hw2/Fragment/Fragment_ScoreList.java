@@ -13,13 +13,12 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.hw2.AdapterScore;
-import com.example.hw2.Class.MyDB;
+import com.example.hw2.Class.ScoreDB;
 import com.example.hw2.Class.Score;
 import com.example.hw2.Interface.CallBack_ScoreList;
 import com.example.hw2.R;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 
 public class Fragment_ScoreList extends Fragment {
@@ -48,7 +47,7 @@ public class Fragment_ScoreList extends Fragment {
     }
 
     private void initViews() {
-        MyDB myDB = new MyDB();
+        ScoreDB myDB = new ScoreDB();
         myDB.getScoresFromDB();
         ArrayList<Score> scores = myDB.getTopN(10);
 

@@ -1,25 +1,22 @@
 package com.example.hw2.Class;
 
 
-import com.example.hw2.Activity.GameActivity;
 import com.google.gson.Gson;
-
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
-public class MyDB {
+public class ScoreDB {
     private final String SCORES_KEY = "scores";
 
     private ArrayList<Score> scores = new ArrayList<>();
 
-    public MyDB() { }
+    public ScoreDB() { }
 
     public ArrayList<Score> getRecords() {
         return scores;
     }
 
-    public MyDB setScores(ArrayList<Score> records) {
+    public ScoreDB setScores(ArrayList<Score> records) {
         this.scores = records;
         return this;
     }
@@ -29,7 +26,7 @@ public class MyDB {
 
         if(scores_str != ""){
             Gson gson = new Gson();
-            this.scores = gson.fromJson(scores_str, MyDB.class).getRecords();
+            this.scores = gson.fromJson(scores_str, ScoreDB.class).getRecords();
         }else {
 
             this.scores = new ArrayList<Score>();

@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.RadioGroup;
 
 import com.example.hw2.R;
@@ -21,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
     public static final String SPEED_SLOW = "slow";
 
 
-    private MaterialButton btn_start_game;
-    private MaterialButton btn_scores;
+    private Button main_btn_start_game;
+    private Button main_btn_score_list;
     private RadioGroup rBtn_group_modesOptions, rBtn_group_speedOptions;
 
 
@@ -33,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
         findViews();
 
-        btn_start_game.setOnClickListener(new View.OnClickListener() {
+        main_btn_start_game.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, GameActivity.class);
@@ -44,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        btn_scores.setOnClickListener(new View.OnClickListener() {
+        main_btn_score_list.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, ScoreActivity.class);
@@ -78,8 +79,8 @@ public class MainActivity extends AppCompatActivity {
         return mode;
     }
     private void findViews() {
-        btn_scores = findViewById(R.id.btn_scores);
-        btn_start_game = findViewById(R.id.btn_startGame);
+        main_btn_score_list = findViewById(R.id.main_btn_score_list);
+        main_btn_start_game = findViewById(R.id.main_btn_start_game);
         rBtn_group_modesOptions = findViewById(R.id.rBtnModeOptions);
         rBtn_group_speedOptions = findViewById(R.id.rBtnSpeedOptions);
     }

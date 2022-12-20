@@ -8,7 +8,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/background_road"
+        android:src="@drawable/img_background"
         android:layout_centerHorizontal="true"
         android:scaleType="fitXY"
 
@@ -28,95 +28,44 @@
             >
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
                 android:visibility="invisible"
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
-                android:visibility="invisible"
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
@@ -128,95 +77,44 @@
             >
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
                 android:visibility="invisible"
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
-                android:visibility="invisible"
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
@@ -228,95 +126,44 @@
             >
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
                 android:visibility="invisible"
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
-                android:visibility="invisible"
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
@@ -328,95 +175,44 @@
             >
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
                 android:visibility="invisible"
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
-                android:visibility="invisible"
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
@@ -428,95 +224,44 @@
             >
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
                 android:visibility="invisible"
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
-                android:visibility="invisible"
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
@@ -528,95 +273,44 @@
             >
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
                 android:visibility="invisible"
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
-                android:visibility="invisible"
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
@@ -628,95 +322,44 @@
             >
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
                 android:visibility="invisible"
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            >
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
-                android:visibility="invisible"
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
@@ -728,45 +371,360 @@
             >
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="5dp"
                 android:visibility="invisible"
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
-                android:visibility="invisible"
-
-                />
-            <ImageView
-
-                android:src="@drawable/rock"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
             <ImageView
 
-                android:src="@drawable/rock"
+                android:src="@drawable/ic_rock"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginLeft="30dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="invisible"
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="invisible"
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="invisible"
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="invisible"
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="invisible"
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"
+
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="invisible"/>
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"/>
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"/>
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"/>
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="invisible"/>
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"/>
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"/>
+            <ImageView
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
+                android:visibility="invisible"/>
+            <ImageView
+
+                android:src="@drawable/ic_rock"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="27dp"
                 android:visibility="invisible"
 
                 />
@@ -785,52 +743,34 @@
         android:orientation="horizontal">
 
         <ImageView
-
-            android:layout_width="70dp"
+            android:layout_width="73dp"
             android:layout_height="70dp"
-            android:layout_marginLeft="5dp"
-            android:src="@drawable/car"
-            android:visibility="invisible"
+            android:src="@drawable/ic_bear"
+            android:visibility="invisible"/>
 
-            />
+        <ImageView
+            android:layout_width="73dp"
+            android:layout_height="70dp"
+            android:src="@drawable/ic_bear"
+            android:visibility="invisible"/>
+
+        <ImageView
+            android:layout_width="73dp"
+            android:layout_height="70dp"
+            android:src="@drawable/ic_bear"/>
 
         <ImageView
 
-            android:layout_width="70dp"
+            android:layout_width="73dp"
             android:layout_height="70dp"
-            android:layout_marginLeft="10dp"
-            android:src="@drawable/car"
-            android:visibility="invisible"
-
-            />
+            android:src="@drawable/ic_bear"
+            android:visibility="invisible"/>
 
         <ImageView
-
-            android:layout_width="70dp"
+            android:layout_width="73dp"
             android:layout_height="70dp"
-            android:layout_marginLeft="10dp"
-            android:src="@drawable/car"
-
-            />
-
-        <ImageView
-
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:layout_marginLeft="10dp"
-            android:src="@drawable/car"
-            android:visibility="invisible"
-
-            />
-
-        <ImageView
-
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:layout_marginLeft="10dp"
-            android:src="@drawable/car"
+            android:src="@drawable/ic_bear"
             android:visibility="invisible" />
-
     </LinearLayout>
 
     <ImageView
@@ -841,8 +781,7 @@
         android:layout_marginEnd="10dp"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="50dp"
-        android:src="@drawable/ic_arrow_right"
-        />
+        android:src="@drawable/ic_right"/>
 
     <ImageView
         android:id="@+id/game_imgLeftArrow"
@@ -852,44 +791,37 @@
         android:layout_marginStart="10dp"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="50dp"
-        android:src="@drawable/ic_arrow_left" />
+        android:src="@drawable/ic_left" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_alignParentStart="true"
-    >
+        android:layout_alignParentStart="true">
         <LinearLayout
             android:layout_width="wrap_content"
-            android:layout_height="20dp"
+            android:layout_height="40dp"
             android:orientation="horizontal"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
-            android:layout_weight="5"
-            >
+            android:layout_weight="5">
             <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:src="@drawable/heart"
-                android:id="@+id/game_imageHeart1"
-
-                />
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/ic_heart"
+                android:id="@+id/game_imageHeart1"/>
             <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:src="@drawable/heart"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/ic_heart"
                 android:layout_marginLeft="5dp"
-                android:id="@+id/game_imageHeart2"
-
-                />
+                android:id="@+id/game_imageHeart2"/>
             <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:src="@drawable/heart"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/ic_heart"
                 android:layout_marginLeft="5dp"
-                android:id="@+id/game_imageHeart3"
-                />
+                android:id="@+id/game_imageHeart3"/>
 
         </LinearLayout>
 
@@ -897,14 +829,14 @@
             android:layout_width="wrap_content"
             android:layout_height="35dp"
             android:layout_marginLeft="10dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="10dp"
             android:layout_weight="1"
             android:orientation="horizontal">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Score:"
+                android:text="SCORE:"
                 android:layout_marginRight="10dp"
                 android:textColor="@color/white"
                 android:textSize="24sp" />

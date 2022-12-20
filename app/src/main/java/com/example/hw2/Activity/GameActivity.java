@@ -23,7 +23,7 @@ import android.widget.TableRow;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.hw2.Class.MyDB;
+import com.example.hw2.Class.ScoreDB;
 import com.example.hw2.Class.Score;
 import com.example.hw2.R;
 
@@ -226,7 +226,7 @@ public class GameActivity extends AppCompatActivity {
     }
 
     private void updateTop10Scores(){
-        MyDB myDB = new MyDB();
+        ScoreDB myDB = new ScoreDB();
         ArrayList<Score> scores = myDB.getScoresFromDB();
         scores.add(player);
         myDB.setScores(scores);
